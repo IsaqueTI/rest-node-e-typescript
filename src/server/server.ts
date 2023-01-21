@@ -1,9 +1,13 @@
 import express from 'express';
+import 'dotenv/config';
+import { router } from './routes';
 
 const server = express();
 
-server.get('/', (_, res) => {
-  return res.send('Ola dev');
-});
+server.use(express.json()); //permitir receber os dados do body em json
+
+
+server.use(router);
+
 
 export { server };
