@@ -9,7 +9,11 @@ router.get('/', (req: Request, res: Response) => {
   return res.status(StatusCodes.CREATED).json('Ola dev');
 });
 
-router.post('/cidades', cidadesController.create);
+router.post(
+  '/cidades',
+  cidadesController.createValidation,
+  cidadesController.create
+);
 
 
 export { router };
