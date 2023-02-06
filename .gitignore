@@ -5,6 +5,6 @@
 
 
 .env
-.sqlite
+*.sqlite
 importante_projeto.txt
 
