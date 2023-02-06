@@ -1,7 +1,7 @@
 /node_modules
 /rest-typescript-lucas.code-workspace
 /coverage
-/buid
+/build
 
 
 .env
