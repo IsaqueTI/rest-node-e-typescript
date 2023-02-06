@@ -1,6 +1,10 @@
 /node_modules
-importante_projeto.txt
 /rest-typescript-lucas.code-workspace
-.env
 /coverage
 /buid
+
+
+.env
+.sqlite
+importante_projeto.txt
+
