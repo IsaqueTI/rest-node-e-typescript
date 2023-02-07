@@ -28,6 +28,6 @@ Inicie o projeto
   
 ------------------------------------------------
 Observação: 
-  - Ate a data 06/02/2023 estou na aula 20/41 do curso então nem todos os conceitos ainda não foram fizalizados.
+  - Ate a data 07/02/2023 estou na aula 20/41 do curso então nem todos os conceitos ainda não foram fizalizados.
   - Vale lembar que ja sou programador, desenvolvo aplicações em PHP, Apis Node(utilizando js) e express.
 
